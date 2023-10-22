@@ -1,0 +1,12 @@
+venv/
+.venv/
+.airflow/
+.cache/
+*.log
+*.out
+*.err
+.env
+.config
+*.pyc
+__pycache__/
+scheduler/
