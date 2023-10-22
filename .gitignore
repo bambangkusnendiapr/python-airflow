@@ -5,7 +5,7 @@ venv/
 *.log
 *.out
 *.err
-.env
+# .env
 .config
 *.pyc
 __pycache__/
